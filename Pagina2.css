@@ -1,0 +1,128 @@
+
+body {
+
+  width: 55%;
+  margin: inherit;
+  text-align: center;
+  font-family: "Times New Roman", serif;
+  line-height: 1.5;
+  background-color: #F5F5DC;
+  margin-left: 130px;
+  margin-top: auto;
+
+}
+
+main {
+
+  padding: 130px 140px;
+  margin-top: 20px;
+  border-radius: 10px;
+
+}
+
+  .sub_titulo {
+
+  color: #6B8E23;
+  margin: 0;
+  text-align: center;
+  padding: 5px 40px;
+  margin-top: 20px;
+  border-radius: 10px;
+  }
+
+.TEMA {
+
+     color: #6B8E23;
+     margin: 0;
+     text-align: center;
+     background-color: #a0a0a0a0;
+     padding: 5px 40px;
+     margin-top: -80px;
+     border-radius: 10px;
+     margin-right: -580px;
+
+  }
+
+.Cascais {
+  color: #556B2F;
+  text-align: justify;
+  background-color: #00b33c31;
+  padding: 5px 40px;
+  margin-top: 20px;
+  border-radius: 10px;
+
+}
+
+.Sintra {
+  color: #556B2F;
+  text-align: justify;
+  caret-color: auto;
+  background-color: #00b33c31;
+  padding: 5px 40px;
+  margin-top: 20px;
+  border-radius: 10px
+
+}
+
+.Palacio_de_queluz {
+    color: #556B2F;
+    text-align: justify;
+    background-color: #00b33c31;
+    padding: 5px 40px;
+    margin-top: 20px;
+    border-radius: 10px
+
+}
+
+img {
+
+
+  border-radius: 60%;
+  float: right;
+  margin-left: 1033px;
+
+}
+
+figcaption {
+
+
+  text-align: right;
+  padding-top: 26px;
+}
+
+.passeio1 {
+
+  right: auto;
+  border: 3px;
+  display: table-cell;
+  float: left;
+  margin-top: -900px;
+  text-align: center;
+ color: #556B2F;
+}
+
+.passeio2 {
+
+  right: auto;
+  border: 3px;
+  display: table-cell;
+  float: left;
+  margin-top: -550px;
+  text-align: center;
+  color: #556B2F;
+}
+
+.passeio3 {
+  color: #556B2F;
+  right: auto;
+  border: 3px;
+  display: table-cell;
+  float: left;
+  margin-top: -220px;
+  text-align: center;
+}
+
+.botao {
+  color: #556B2F;
+
+}

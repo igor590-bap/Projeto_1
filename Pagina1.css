@@ -1,0 +1,133 @@
+
+body {
+
+  width: 55%;
+  margin: inherit;
+  text-align: center;
+  font-family: "Times New Roman", serif;
+  line-height: 1.5;
+  background-color: #F5F5DC;
+  margin-left: 130px;
+  margin-top: auto;
+
+}
+
+main {
+
+  padding: 130px 140px;
+  margin-top: 20px;
+  border-radius: 10px;
+
+}
+
+.topicos {
+
+  text-align: right;
+  color: #556B2F;
+
+}
+
+.sub_titulo {
+
+  color: #6B8E23;
+  margin: 0;
+  text-align: center;
+  padding: 5px 40px;
+  margin-top: 20px;
+  border-radius: 10px;
+}
+
+.titulo_dos_topicos {
+
+  color: #6B8E23;
+  margin: 0;
+  text-align: center;
+  padding: 5px 40px;
+  margin-top: 20px;
+  border-radius: 10px;
+}
+
+.botao {
+
+text-align: center;
+
+}
+
+.cabecalho {
+
+   color: #6B8E23;
+   margin: 0;
+   text-align: center;
+   background-color: #a0a0a0a0;
+   padding: 5px 40px;
+   margin-top: -80px;
+   border-radius: 10px;
+   margin-right: -580px;
+
+}
+
+.materia {
+
+  color: #556B2F;
+  text-align: justify;
+  caret-color: auto;
+  background-color: #00b33c31;
+  padding: 5px 40px;
+  margin-top: 20px;
+  border-radius: 10px
+
+}
+
+figure {
+  margin-left: 1033px;
+  right: auto;
+  border: 3px;
+  display: table-cell;
+  float: left;
+}
+
+figcaption {
+
+
+  text-align: right;
+  padding-top: 26px;
+}
+
+img {
+
+  margin-left: 1033px;
+  border-radius: 60%;
+  float: right;
+}
+
+.Ciclismo {
+  color: #556B2F;
+  right: auto;
+  border: 3px;
+  display: table-cell;
+  float: left;
+  margin-top: -610px;
+  text-align: center;
+}
+
+.basquete {
+
+  color: #556B2F;
+  right: auto;
+  border: 3px;
+  display: table-cell;
+  float: left;
+  margin-top: -900px;
+  text-align: center;
+}
+
+.atletismo {
+
+  color: #556B2F;
+  right: auto;
+  border: 3px;
+  display: table-cell;
+  float: left;
+  margin-top: -315px;
+  text-align: center;
+}
